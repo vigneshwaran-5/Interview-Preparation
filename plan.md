@@ -3,7 +3,7 @@
 ## Week 1: Angular & DSA Basics + Git Fundamentals
 
 **Angular**
-- Components - completed
+- Components
 - Modules
 - Templates
 - Data Binding
